@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Your Website Title</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* You can add your custom styles here */
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="cpuorfdatabase.html">CPuORF database</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="cpuorfdatabase.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="arabidopsis.html"><i>Arabidopsis thaliana</i></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="drosophila.html"><i>Drosophila melanogaster</i></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="homo.html"><i>Homo sapiens</i></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="explain.html">CPuORFs explained</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="analysis.html">Analysis</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="references.html">References</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <h2>The CPuORF classification system</h2>
+        <p>
+            Initial investigations into CPuORF peptide sequences distinguished differential patterns in amino acid conservation (Figure 3). A selection of CPuORFs displayed conservation exclusively at the C-terminus, whereas other CPuORFs displayed conservation throughout or at the N-terminus. CPuORFs were classified based upon their pattern of conservation. The CPuORF classification system was most recently updated by Causier at al., to differentiate those that displayed conservation exclusively at the N-terminus and those conserved throughout (Figure 3) (DOI: 10.1111/pce.14277). CPuORFs are classified into either Class I (C-terminal conservation), Class IIa (N-terminal conservation) or Class IIb (whole peptide conservation).
+        </p>
+         <img src="images/figure_3.png" alt="Schematic Representation of CPuORF classification" class="img-fluid">
+        <p>
+            Figure 3. A schematic to show conservation patterns between CPuORF classes. CPuORFs can be classified into Class I, IIa and IIb. Conservation is characterised by the conservation of the N- and C- termini. Class I and Class IIb are conserved at the C-terminus. Class IIa and IIb CPuORFs are conserved at their N-termini. Class IIa is exclusively conserved at its N-terminus, whereas IIb is conserved throughout.
+        </p>
+        <h3>Several studies have demonstrated that specific CPuORFs can conditionally modulate mORF expression</h3>
+        <p>
+            Below are literature tables of studies that have demonstrated that CPuORFs alongside a signal can stall the ribosome (rCUTS) and other CPuORFs alongside a signal can facilitate translation re-initiation and increased levels of mORF expression (aCUTS)
+        </p>
+         <img src="images/table_1.png" alt="Literature table of aCUTS CPuORFs" class="img-fluid">
+         <img src="images/table_2.png" alt="Literature table of rCUTS CPuORFs" class="img-fluid">
+        <p>
+            Table 1 and 2. Summary of key studies identifying CPuORFs that conditionally express their downstream mORF. The table has two sections 1) Studies that have identified a signal increases mORF protein expression via a CPuORF. 2) Studies that have identified a signal represses mORF protein expression via a CPuORF.
+        </p>
+        <h4>Conditional uORF Translational Stalling (CUTS)</h4>
+        <img src="images/figure_4.png" alt="Schematic Representation of CPuORF" class="img-fluid">
+        <p>
+            Figure 4. A schematic representation of the CPuORF Conditional uORF Translational Stalling mechanism (CUTS). Repressive CUTS (rCUTS) illustrates when a specific signal enhances or triggers ribosomal stalling by binding to a conserved metabolite pocket in the exit tunnel. Resulting in reduced mORF protein production compared to control conditions. The default: A CPuORF nascent peptide inherently stalls the ribosome during translation independent of a external signal. The nascent peptide likely forms interactions with exit tunnel proteins rRNA nucelotides. Consequently, leading to decreased mORF protein production when compared to control conditions. Activator CUTS (aCUTS) demonstrates how a signal terminates ribosomal stalling by the nascent CPuORF peptide. The signal may bind to the ribosome and/or CPuORF peptide and enabling the ribosome to re-initiate translation at the downstream mORF and promoting mORF protein production.
+        </p>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

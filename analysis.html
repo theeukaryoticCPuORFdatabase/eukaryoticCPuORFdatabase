@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Your Website Title</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* You can add your custom styles here */
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="cpuorfdatabase.html">CPuORF database</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="cpuorfdatabase.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="arabidopsis.html"><i>Arabidopsis thaliana</i></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="drosophila.html"><i>Drosophila melanogaster</i></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="homo.html"><i>Homo sapiens</i></a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="explain.html">CPuORFs explained</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="analysis.html">Analysis</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="references.html">References</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <h2>Gene ontology analysis of CPuORF transcripts across taxa.</h2>
+        <h3><i>Arabidopsis</i> CPuORFs are enriched upstream of metabolic, developmental and regulatory networks</h3>
+         <img src="images/figure_5.png" alt="Arabidopsis CPuORF gene ontology analysis expressed as a treemap by Revigo" class="img-fluid">
+        <p>
+            Figure 5. Gene ontology analysis suggests Arabidopsis thaliana CPuORFs are enriched in regulatory genes in metabolic, development and regulatory networks. The GORILLA tool compared CPuORF transcripts against regular uORF containing transcripts. The comparison revealed an enrichment of gene ontology terms regarding gene regulation, signalling and metabolism. Gene ontology analysis results is visualised by a treemap by Revigo to illustrate enriched GO terms in CPuORF containing transcripts. A) Clustering analysis of biological processes presented as a treemap. Terms have been coloured coded to represent clustering groups. (Red = AdoMet biosynthetic processes, teal = amino biosynthetic processes, dark blue = regulatory networks, orange = starvation response, green = regulation and purple = organ development) B) Clustering analysis of molecular functions presented as a treemap. (red = transcription factor activity, orange = protein heterodimerization activity and teal = AdoMet decarboxylase activity).
+        </p>
+        <h4><i>Drosophila</i> CPuORFs are enriched upstream of RNA regulatory mORF and mORFs that form catalytic complexes and organophosphate biosynthesis</h4>
+        <img src="images/figure_6.png" alt="Drosophila CPuORF gene ontology analysis expressed as a treemap by Revigo" class="img-fluid">
+        <p>
+            Figure 6. Gene ontology analysis suggests Drosophila melanogaster CPuORFs are enriched in catalytic complexes, RNA and rRNA modification and organophosphate biosynthetic processes. The GORILLA tool compared CPuORF transcripts against regular uORF containing transcripts. The comparison revealed an enrichment of gene ontology terms regarding gene regulation, signalling and metabolism. Gene ontology analysis results is visualised by a treemap by Revigo to illustrate enriched GO terms in CPuORF containing transcripts. A) Clustering analysis of biological processes presented as a treemap. Terms have been coloured coded to represent clustering groups. (Red = rRNA and RNA modification, blue = organophosphate biosynthetic processes). B) Clustering analysis of cellular compartment presented as a treemap. (red = catalytic complexes). C) Clustering analysis of molecular function presented as a treemap (rRNA modification).
+        </p>
+        <h5><i>Homo sapiens</i> CPuORFs are enriched upstream of regulatory mORFs and mORFs involved in signaling and development</h5>
+         <img src="images/figure_7.png" alt="Homo sapiens CPuORF gene ontology analysis expressed as a treemap by Revigo" class="img-fluid">
+        <p>
+            Gene ontology analysis suggests Homo sapiens CPuORFs are enriched in regulatory, signalling, and developmental networks. The GORILLA tool compared CPuORF transcripts against regular uORF containing transcripts. The comparison revealed an enrichment of gene ontology terms regarding gene regulation, signalling and metabolism. Gene ontology analysis results is visualised by a treemap by Revigo to illustrate enriched GO terms in CPuORF containing transcripts. A) Clustering analysis of biological processes presented as a treemap. Terms have been coloured coded to represent clustering groups. (Red = cell adhesion, blue =developmental process. Teal anatomical structure morphogenesis, orange = cellular organismal process, green = nervous system process, purple = signalling and regulation, yellow = biological regulation). B) Clustering analysis of cellular compartment presented as a treemap. (red = plasma membrane, teal = membrane, orange = neuron projection and blue = glutamatergic synapse). C) Clustering analysis of molecular function presented as a treemap (red = transcription factor and receptor activity, teal = signalling receptor activity, orange = transcription factor and DNA binding activity, blue = molecular transducer activity).
+        </p>
+        <h4>CPuORF length differs across taxa when compared to uORFs.</h4>
+        <img src="images/figure_8.png" alt="Bar chart to ivnestigate CPuORF length across taxa" class="img-fluid">
+        <p>
+            Figure 8. A comparative analysis of uORF and CPuORF lengths across Arabidopsis thaliana, Drosophila melanogaster, and Homo sapiens. Average uORF and CPuORF length (amino acids) are presented as a bar chart. Error bars represent standard deviation. Arabidopsis thaliana and Homo sapiens average CPuORF length is longer than their uORFs. Drosophila melanogaster CPuORFs are a similar length to their uORFs. There is no difference between Arabidopsis CPuORF length across CPuORF class.
+        </p>
+        <h5>CPuORFs are are found in 10x more transcripts in humans than in plants and flies</h5>
+        <img src="images/table_3.png" alt="Table to show CPuORF rarity" class="img-fluid">
+        <p>
+            Table 3. A table of CPuORF rarity to show Human CPuORFs are 10x more common than Drosophila and Arabidopsis CPuORFs. Data was collected from the eukaryotic CPuORF database 
+        </p>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

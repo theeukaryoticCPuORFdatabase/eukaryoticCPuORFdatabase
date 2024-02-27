@@ -1,0 +1,515 @@
+[
+    {
+        "Gene ID":"FBgn0024734\/   CG4993",
+        "Homology Group":1,
+        "mORF":"PRL-1",
+        "CPuORF Class":"i",
+        "CPuORF length (aa)":30.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0039280\/ CG10238",
+        "Homology Group":3,
+        "mORF":"Mocs2B",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":90.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":20.0
+    },
+    {
+        "Gene ID":"FBgn0028494\/ CG6424",
+        "Homology Group":"4..1",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":15.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0029971\/ CG18624",
+        "Homology Group":6,
+        "mORF":"ND-MNLL",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":54.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":24.0
+    },
+    {
+        "Gene ID":"FBgn0034372\/ CG5469",
+        "Homology Group":7,
+        "mORF":"Gint3",
+        "CPuORF Class":"i",
+        "CPuORF length (aa)":121.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0050100\/ CG30100",
+        "Homology Group":9,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":70.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":5.0
+    },
+    {
+        "Gene ID":"FBgn0027360\/ CG9878",
+        "Homology Group":11,
+        "mORF":"Tim10",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":65.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":55.0
+    },
+    {
+        "Gene ID":"FBgn0064116\/ CG33713",
+        "Homology Group":12,
+        "mORF":"anox",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":90.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":62.0
+    },
+    {
+        "Gene ID":"FBgn0261381\/ CG42631",
+        "Homology Group":13,
+        "mORF":"mtTFB1",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":87.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0260392\/ CG42518",
+        "Homology Group":14,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":144.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0035436\/ CG12016",
+        "Homology Group":20,
+        "mORF":null,
+        "CPuORF Class":"i",
+        "CPuORF length (aa)":81.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":96.0
+    },
+    {
+        "Gene ID":"FBgn0061359\/ CG33671",
+        "Homology Group":22,
+        "mORF":"Mvk",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":86.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0030719\/ CG9177",
+        "Homology Group":"30.2",
+        "mORF":"eIF5",
+        "CPuORF Class":"i",
+        "CPuORF length (aa)":26.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0034649\/ CG9865",
+        "Homology Group":"272.1 ",
+        "mORF":"PIG-M",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":65.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":485.0
+    },
+    {
+        "Gene ID":"FBgn0034649\/ CG9865",
+        "Homology Group":"272.2 ",
+        "mORF":"PIG-M",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":84.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":28.0
+    },
+    {
+        "Gene ID":"FBgn0085447\/ CG34418",
+        "Homology Group":"280.2",
+        "mORF":"sif",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":54.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0031668\/ CG31917",
+        "Homology Group":300,
+        "mORF":"Tfb5",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":73.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":60.0
+    },
+    {
+        "Gene ID":"FBgn0036856\/ CG9666",
+        "Homology Group":301,
+        "mORF":"Mettl5",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":129.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":17.0
+    },
+    {
+        "Gene ID":"FBgn0031454\/ CG9960",
+        "Homology Group":302,
+        "mORF":"HemK2",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":134.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":21.0
+    },
+    {
+        "Gene ID":"FBgn0260464\/ CG9288",
+        "Homology Group":303,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":80.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":22.0
+    },
+    {
+        "Gene ID":"FBgn0260467\/ CG7071\n",
+        "Homology Group":304,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":157.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":8.0
+    },
+    {
+        "Gene ID":"FBgn0050290\/ CG30290",
+        "Homology Group":305,
+        "mORF":"Ppcdc",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":94.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":18.0
+    },
+    {
+        "Gene ID":"FBgn0259726\/ CG42380",
+        "Homology Group":306,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":84.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0037822\/ CG14683\n",
+        "Homology Group":307,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":104.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0264743\/ CG44001",
+        "Homology Group":308,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":127.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0037689\/ CG8135",
+        "Homology Group":309,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":76.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0039339\/ CG5116",
+        "Homology Group":310,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":15.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":31.0
+    },
+    {
+        "Gene ID":"FBgn0263251\/ CG11989",
+        "Homology Group":311,
+        "mORF":"vnc",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":50.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":27.0
+    },
+    {
+        "Gene ID":"FBgn0038641\/ CG7708",
+        "Homology Group":312,
+        "mORF":"ChT",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":26.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0259725\/ CG42379",
+        "Homology Group":313,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":26.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0260468\/ CG7950",
+        "Homology Group":314,
+        "mORF":"Rpp14a",
+        "CPuORF Class":"i",
+        "CPuORF length (aa)":111.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":18.0
+    },
+    {
+        "Gene ID":"FBgn0260234\/ CG42508",
+        "Homology Group":315,
+        "mORF":"Xport-B",
+        "CPuORF Class":"i",
+        "CPuORF length (aa)":116.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0041164\/ CG11513\n",
+        "Homology Group":316,
+        "mORF":"armi",
+        "CPuORF Class":"i",
+        "CPuORF length (aa)":92.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0050011\/ CG30011\n",
+        "Homology Group":317,
+        "mORF":"gem",
+        "CPuORF Class":"i",
+        "CPuORF length (aa)":58.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0035293\/ CG5687",
+        "Homology Group":318,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":31.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0026778\/ CG3240",
+        "Homology Group":319,
+        "mORF":"Rad1",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":179.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":4.0
+    },
+    {
+        "Gene ID":"FBgn0040993\/ CG17325",
+        "Homology Group":320,
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":48.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":63.0
+    },
+    {
+        "Gene ID":"FBgn0030090\/ CG12664",
+        "Homology Group":"unknown",
+        "mORF":"fend",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":41.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":213.0
+    },
+    {
+        "Gene ID":"CG12788\/      CG17767",
+        "Homology Group":"unknown",
+        "mORF":"Tim9b",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":117.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":165.0
+    },
+    {
+        "Gene ID":"CG31919\/   CG33995",
+        "Homology Group":"unknown",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":44.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0250903\/CG18042",
+        "Homology Group":"unknown",
+        "mORF":"lmgB",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":85.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":95.0
+    },
+    {
+        "Gene ID":"FBgn0267828\/CG7400",
+        "Homology Group":"unknown",
+        "mORF":"Fatp1",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":20.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0032479\/CG16974",
+        "Homology Group":"unknown",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":21.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0040992\/CG10570",
+        "Homology Group":"unknown",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":50.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":105.0
+    },
+    {
+        "Gene ID":"FBgn0260398\/CG11508",
+        "Homology Group":"unknown",
+        "mORF":"Pbp49",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":150.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":66.0
+    },
+    {
+        "Gene ID":"FBgn0033391\/CG8026",
+        "Homology Group":"unknown",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":48.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0004435\/CG17759",
+        "Homology Group":"unknown",
+        "mORF":"Galphaq",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":31.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":1081.0
+    },
+    {
+        "Gene ID":"FBgn0027581\/CG6191",
+        "Homology Group":"unknown",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":21.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":265.0
+    },
+    {
+        "Gene ID":"FBgn0003067\/CG17725",
+        "Homology Group":"unknown",
+        "mORF":"Pepck1",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":27.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":164.0
+    },
+    {
+        "Gene ID":"CG33786\/ CG33785",
+        "Homology Group":"unknown",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":108.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":2.0
+    },
+    {
+        "Gene ID":"FBgn0052573\/CG32573",
+        "Homology Group":"unknown",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":109.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0025355\/CG7869",
+        "Homology Group":"unknown",
+        "mORF":"SuUR",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":68.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":22.0
+    },
+    {
+        "Gene ID":"FBgn0260795\/CG7628",
+        "Homology Group":"unknown",
+        "mORF":"NaPi-III",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":18.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":284.0
+    },
+    {
+        "Gene ID":"FBgn0025825\/CG2128",
+        "Homology Group":"unknown",
+        "mORF":"HDAC3",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":38.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":52.0
+    },
+    {
+        "Gene ID":"FBgn0264493\/CG9924",
+        "Homology Group":"unknown",
+        "mORF":"rdx",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":25.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":198.0
+    },
+    {
+        "Gene ID":"CC31178",
+        "Homology Group":"unknown",
+        "mORF":null,
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":40.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":null
+    },
+    {
+        "Gene ID":"FBgn0039405\/CG14550",
+        "Homology Group":"unknown",
+        "mORF":"PIG-P",
+        "CPuORF Class":"ii",
+        "CPuORF length (aa)":111.0,
+        "AUG start codon?":"Y",
+        "Intercistronic distance (nt)":0.0
+    }
+]
